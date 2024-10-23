@@ -8,5 +8,6 @@ import sofa1 from "./sofa1.jpg"
 import sofa2 from "./sofa2.jpg"
 import wardrobe1 from "./wardrobe1.jpg"
 import wardrobe2 from "./wardrobe2.jpg"
+import payment from "./payment.png"
 
-export {logo, cart, carts, furniture, bed1, bed2, sofa1, sofa2, wardrobe1, wardrobe2};
+export {logo, cart, carts, furniture, bed1, bed2, sofa1, sofa2, wardrobe1, wardrobe2, payment};

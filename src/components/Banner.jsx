@@ -20,8 +20,7 @@ const Banner = () => {
       <div className='w-screen h-[650px] relative'>                   
         <div 
         // style={{transform:`translateX(-${currentSlide * 100}vw)`}}
-        className="w-[400vw] h-full flex transition-transform duration-1000"
-        >
+        className="w-[400vw] h-full flex transition-transform">
             
             <img className="w-screen h-full object-cover" src={data[currentSlide]} alt="ImageSix" />
         </div>
